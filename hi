@@ -1,0 +1,11 @@
+#include<stdio.h>
+#ionclude<conio.h>
+void main()
+{
+int i;
+clrscr();
+printf("Enter the word:");
+scanf("%s",&n);
+print("HELLO");
+getch();
+}
